@@ -7,6 +7,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=120">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=120">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=white&logoSize=120">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C&logoColor=white&logoSize=120">
   </div>
   <h3 align="center">Bibliotecas e Frameworks</h3>
   <div align="center">
