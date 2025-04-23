@@ -14,6 +14,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white&logoSize=60">
   </div>
   <h3 align="center">Outras ferramentas</h3>
